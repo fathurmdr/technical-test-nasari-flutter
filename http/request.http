@@ -1,0 +1,8 @@
+### Login User
+POST https://reqres.in/api/login
+Content-Type: application/json
+
+{
+  "email": "eve.holt@reqres.in",
+  "password": "cityslicka"
+}
